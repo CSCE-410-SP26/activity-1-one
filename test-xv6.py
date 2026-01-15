@@ -8,6 +8,7 @@
 # ./test-xv6.py crash  (runs the crash tests)
 # ./test-xv6.py log (runs the log crash test)
 
+#hello
 import argparse, os, inspect, re, signal, subprocess, sys, time
 from subprocess import run
 
