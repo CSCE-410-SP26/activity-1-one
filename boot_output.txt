@@ -1,8 +1,6 @@
 [Copy the boot messages you saw when xv6 first started]
-Example:
 xv6 kernel is booting
 
 hart 2 starting
 hart 1 starting
 init: starting sh
-$
