@@ -1,0 +1,5 @@
+$ ls
+[put your ls output]
+
+$ cat README
+[put first 20 lines of README]

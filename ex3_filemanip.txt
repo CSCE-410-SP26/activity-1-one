@@ -1,0 +1,10 @@
+$ echo "Line 1" > output.txt
+$ echo "Line 2" >> output.txt
+$ cat output.txt
+[put actual output]
+
+$ grep Line output.txt
+[put actual output]
+
+$ wc output.txt
+[put actual output showing line/word/byte counts]

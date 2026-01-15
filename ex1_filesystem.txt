@@ -1,0 +1,10 @@
+$ ls
+[put your actual ls output here - the full list of files]
+
+$ echo "Hello from xv6" > myfile.txt
+$ cat myfile.txt
+[put the actual output]
+
+$ mkdir testdir
+$ ls
+[put the ls output showing testdir]
